@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm [Giuseppe](https://github.com/glanzillotta) 👋
+
+I'm a fullstack developer from Italy 🇮🇹
 
 <!--
 **glanzillotta/glanzillotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
